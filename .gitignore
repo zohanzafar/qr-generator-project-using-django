@@ -27,6 +27,3 @@ ENV/
 .virtualenv/
 venv/
 virenv/
-
-# Requirements.txt file
-requirements.txt
