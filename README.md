@@ -20,7 +20,7 @@ Follow these steps to set up and run the project.
 
 ```bash
 git clone https://github.com/zohanzafar/qr-generator-project-using-django.git
-cd qr-code-generator
+cd qr-generator-project-using-django
 ```
 
 ### 2. Create and Activate a Virtual Environment
